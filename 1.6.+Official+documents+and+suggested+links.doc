@@ -1,0 +1,318 @@
+Message-ID: <500588415.8.1538352388946.JavaMail.CRASSWVC01$@CRASSWVC01>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_7_1752712986.1538352388945"
+
+------=_Part_7_1752712986.1538352388945
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>1.6. Official documents and suggested links</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>1.6. Official documents and suggested links</h1>
+    <div class=3D"Section1">
+        <p><img src=3D"/plugins/servlet/confluence/placeholder/error?i18nKe=
+y=3Deditor.placeholder.broken.macro&amp;locale=3Den_GB&amp;version=3D2" tit=
+le=3D"Cannot get property 'macroName' on null object" class=3D"transform-er=
+ror" data-encoded-xml=3D"%3Cac%3Astructured-macro+ac%3Aname%3D%22toc%22+ac%=
+3Aschema-version%3D%221%22+ac%3Amacro-id%3D%221788c50a-0855-400d-a03e-c9c48=
+9a51dfa%22+%2F%3E"></p>
+<ul>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-Codecademy-LearnJav=
+a">Codecademy - Learn Java</h4>
+<ul>
+<li><a href=3D"https://www.codecademy.com/learn/learn-java" class=3D"extern=
+al-link" rel=3D"nofollow">https://www.codecademy.com/learn/learn-java</a></=
+li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-FirefoxTestEngineer=
+ing-WritingReliableLocatorsforSeleniumandWebdriverTests">Firefox Test Engin=
+eering - Writing Reliable Locators for Selenium and Webdriver Tests</h4>
+<ul>
+<li><a href=3D"https://blog.mozilla.org/fxtesteng/2013/09/26/writing-reliab=
+le-locators-for-selenium-and-webdriver-tests/" class=3D"external-link" rel=
+=3D"nofollow">https://blog.mozilla.org/fxtesteng/2013/09/26/writing-reliabl=
+e-locators-for-selenium-and-webdriver-tests/</a></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-WebScraping-5bestxp=
+athcheatsheetsandquickreferences">Web Scraping - 5 best xpath cheat sheets =
+and quick references</h4>
+<ul>
+<li><p><a href=3D"http://scraping.pro/5-best-xpath-cheat-sheets-and-quick-r=
+eferences/" class=3D"external-link" rel=3D"nofollow">http://scraping.pro/5-=
+best-xpath-cheat-sheets-and-quick-references/</a></p></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-SeleniumWebDriver">=
+Selenium WebDriver</h4>
+<ul>
+<li><a href=3D"https://www.seleniumhq.org/docs/03_webdriver.jsp" class=3D"e=
+xternal-link" rel=3D"nofollow">https://www.seleniumhq.org/docs/03_webdriver=
+.jsp</a></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-TestNG-OfficialDocu=
+mentation">TestNG - Official Documentation</h4>
+<ul>
+<li><a href=3D"http://testng.org/doc/documentation-main.html" class=3D"exte=
+rnal-link" rel=3D"nofollow">http://testng.org/doc/documentation-main.html</=
+a></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-TutorialsPoint-Mave=
+nTutorial">Tutorials Point - Maven Tutorial</h4>
+<ul>
+<li><p><a href=3D"https://www.tutorialspoint.com/maven/index.htm" class=3D"=
+external-link" rel=3D"nofollow">https://www.tutorialspoint.com/maven/index.=
+htm</a></p></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-Mavenin5minutes">Ma=
+ven in 5 minutes</h4>
+<ul>
+<li><p><a href=3D"https://maven.apache.org/guides/getting-started/maven-in-=
+five-minutes.html" class=3D"external-link" rel=3D"nofollow">https://maven.a=
+pache.org/guides/getting-started/maven-in-five-minutes.html</a></p></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-SauceLabs-BestPract=
+icesforrunningtests">Sauce Labs - Best Practices for running tests</h4>
+<ul>
+<li><a href=3D"https://wiki.saucelabs.com/display/DOCS/Best+Practices+for+R=
+unning+Tests" class=3D"external-link" rel=3D"nofollow">https://wiki.saucela=
+bs.com/display/DOCS/Best+Practices+for+Running+Tests</a></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-Jenkins-Tutorial">J=
+enkins - Tutorial</h4>
+<ul>
+<li><a href=3D"https://jenkins.io/doc/tutorials/" class=3D"external-link" r=
+el=3D"nofollow">https://jenkins.io/doc/tutorials/</a></li>
+</ul></li>
+<li><h4 id=3D"id-1.6.Officialdocumentsandsuggestedlinks-SetupMavenandTestNg=
+withSeleniumonjenkinsserverwithGit">Setup Maven and TestNg with Selenium on=
+ jenkins server with Git</h4>
+<ul>
+<li><a href=3D"https://www.aurigait.com/blog/Configure-Jenkins-with-Maven-a=
+nd-TestNg" class=3D"external-link" rel=3D"nofollow">https://www.aurigait.co=
+m/blog/Configure-Jenkins-with-Maven-and-TestNg</a></li>
+</ul></li>
+</ul>
+    </div>
+</body>
+</html>
+------=_Part_7_1752712986.1538352388945--
